@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi! I'm a developer currently looking for new challenges. 
+#### I build games and other various projects on this account. The games are private repos but feel free to check out the product on kongregates site here (account required): 
+[SpaceDrone](https://www.kongregate.com/games/Beardglass/spacedrone-idle?acomplete=space+dron)
+[TypeFrighter](https://www.kongregate.com/games/Beardglass/type-frighter)
+#### Checkout Actipet for a cool IoT project where you can check in on your pet from anywhere.
+[Actipet](https://github.com/OlofMalmgren/ActiPet)
 
 <!--
 **OlofMalmgren/OlofMalmgren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
