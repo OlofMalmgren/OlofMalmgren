@@ -1,4 +1,4 @@
-### Hi! I'm an IOT and game developer.
+### Hi! I'm an IoT and game developer.
 #### I build games and other various projects on this account. The games are private repos but they are free to play on kongregates site here (account required): 
 [SpaceDrone](https://www.kongregate.com/games/Beardglass/spacedrone-idle?acomplete=space+dron)
 [TypeFrighter](https://www.kongregate.com/games/Beardglass/type-frighter)
